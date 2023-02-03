@@ -1,0 +1,10 @@
+module alu_legv8_tb;
+	reg [63:0] A, B;
+	reg [4:0] FS;
+	reg C0;
+	wire [63:0] F;
+	wire [3:0] status;
+	
+	alu_legv8 uut (.A(A), .B(B), .FS(FS), .C0(C0), .F(F), .status(status));
+	
+	

@@ -1,0 +1,10 @@
+|mux_4to1_bhvrl
+o <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+i[0] => Mux0.IN3
+i[1] => Mux0.IN2
+i[2] => Mux0.IN1
+i[3] => Mux0.IN0
+s[0] => Mux0.IN5
+s[1] => Mux0.IN4
+
+

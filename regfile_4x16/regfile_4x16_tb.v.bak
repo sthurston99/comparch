@@ -1,0 +1,14 @@
+`timescale 1ns/1ps
+module regfile_4x16_tb;
+	reg clk, w;
+	reg [2:0] wa, raA, raB;
+	reg [15:0] wd;
+	wire [15:0] rdA, rdB;
+		
+	regfile_4x16 uut (.clk(clk), .w(w), .wa(wa), .raA(raA),
+							.raB(raB), .wd(wd), .rdA(rdA), .rdB(rdB));
+		
+	initial begin
+		
+	end
+endmodule

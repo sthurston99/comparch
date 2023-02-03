@@ -1,0 +1,9 @@
+module datapath_legv8(
+	input [4:0] DA, SA, SB, FS;
+	input W_en, c_out, b_sel, b_en, ram_en, alu_en, d_en, clk, rst;
+	input [63:0] k;
+	input [7:0] addr;
+	output [3:0] stat;
+	output [63:0] f;
+	output [15:0] r0, r1, r2, r3, r4, r5, r6, r7;
+	);

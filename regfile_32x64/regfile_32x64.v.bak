@@ -1,0 +1,12 @@
+module regfile_32x64(
+	output [63:0] rdA,
+	output [63:0] rdB,
+	input [4:0] raA,
+	input [4:0] raB,
+	input w,
+	input [63:0] wd,
+	input [63:0] wa,
+	input rst,
+	input clk);
+	
+	

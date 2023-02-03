@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CompArch/alu_legv8/simulation/modelsim
+vadder_64
+Z1 !s110 1582062923
+!i10b 1
+!s100 F:aI8Z:OKoDKYg;E9]Tkh2
+I^T2H?blIHd<nKHYbQ=K_`3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1582060166
+8D:/CompArch/adder_64/adder_64.v
+FD:/CompArch/adder_64/adder_64.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1582062923.000000
+!s107 D:/CompArch/adder_64/adder_64.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/adder_64|D:/CompArch/adder_64/adder_64.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/CompArch/adder_64
+Z6 tCvgOpt 0
+valu_legv8
+R1
+!i10b 1
+!s100 A>`Vfn?bUGnf;3nEcTX241
+IXh:SziKA0`5C24Z1G`GCM3
+R2
+R0
+w1582062413
+8D:/CompArch/alu_legv8/alu_legv8.v
+FD:/CompArch/alu_legv8/alu_legv8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/alu_legv8/alu_legv8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/alu_legv8|D:/CompArch/alu_legv8/alu_legv8.v|
+!i113 1
+R5
+Z7 !s92 -vlog01compat -work work +incdir+D:/CompArch/alu_legv8
+R6
+valu_legv8_tb
+R1
+!i10b 1
+!s100 4iH@>lH`FSQe9G]ZPYha:2
+IJ1NX3dZ8FKHKWD7@9Ba760
+R2
+R0
+w1582062903
+8D:/CompArch/alu_legv8/alu_legv8_tb.v
+FD:/CompArch/alu_legv8/alu_legv8_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/alu_legv8/alu_legv8_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/alu_legv8|D:/CompArch/alu_legv8/alu_legv8_tb.v|
+!i113 1
+R5
+R7
+R6
+vmux_8to1_64
+R1
+!i10b 1
+!s100 oR[7KlBC6SLBmF8FD4Ra<2
+IGFFg_oDHhbg2A3;_izP0Y3
+R2
+R0
+w1582061731
+8D:/CompArch/mux_8to1_64/mux_8to1_64.v
+FD:/CompArch/mux_8to1_64/mux_8to1_64.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/mux_8to1_64/mux_8to1_64.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/mux_8to1_64|D:/CompArch/mux_8to1_64/mux_8to1_64.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/CompArch/mux_8to1_64
+R6
+vshifter_64
+R1
+!i10b 1
+!s100 oIzkI7GPcZ`_UR8@eZ^9I3
+IbgT6?h?;j3YeeBeX;3EZT3
+R2
+R0
+w1582060300
+8D:/CompArch/shifter_64/shifter_64.v
+FD:/CompArch/shifter_64/shifter_64.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/shifter_64/shifter_64.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/shifter_64|D:/CompArch/shifter_64/shifter_64.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/CompArch/shifter_64
+R6

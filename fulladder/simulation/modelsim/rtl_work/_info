@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CompArch/fulladder/simulation/modelsim
+vfulladder
+Z1 !s110 1581399385
+!i10b 1
+!s100 5L`X^55fXR;oGc4EDMXM_1
+Im@NK0=Do8=fC4`bmc3iml3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1581398957
+8D:/CompArch/fulladder/fulladder.v
+FD:/CompArch/fulladder/fulladder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1581399385.000000
+!s107 D:/CompArch/fulladder/fulladder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/fulladder|D:/CompArch/fulladder/fulladder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/CompArch/fulladder
+Z7 tCvgOpt 0
+vfulladder_tb
+R1
+!i10b 1
+!s100 aVN2FYYT^o84;2dR4>6XN2
+I@3@d<=fN_X0DmbTa3[J5V2
+R2
+R0
+w1581399361
+8D:/CompArch/fulladder/fulladder_tb.v
+FD:/CompArch/fulladder/fulladder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/fulladder/fulladder_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/fulladder|D:/CompArch/fulladder/fulladder_tb.v|
+!i113 1
+R5
+R6
+R7

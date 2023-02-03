@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CompArch/decoder_2to4/simulation/modelsim
+vdecoder_2to4
+Z1 !s110 1581395366
+!i10b 1
+!s100 YbmhOhC7j?eZoO8;IVR6B2
+ITVnhbiC4Wblko9XACFcBQ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1581395311
+8D:/CompArch/decoder_2to4/decoder_2to4.v
+FD:/CompArch/decoder_2to4/decoder_2to4.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1581395366.000000
+!s107 D:/CompArch/decoder_2to4/decoder_2to4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/decoder_2to4|D:/CompArch/decoder_2to4/decoder_2to4.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/CompArch/decoder_2to4
+Z7 tCvgOpt 0
+vdecoder_2to4_tb
+R1
+!i10b 1
+!s100 @a<jPRZB3BB1[WL?K`bVg1
+I9OhB00i37EAhoPk_dP5k53
+R2
+R0
+w1581395346
+8D:/CompArch/decoder_2to4/decoder_2to4_tb.v
+FD:/CompArch/decoder_2to4/decoder_2to4_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/decoder_2to4/decoder_2to4_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/decoder_2to4|D:/CompArch/decoder_2to4/decoder_2to4_tb.v|
+!i113 1
+R5
+R6
+R7

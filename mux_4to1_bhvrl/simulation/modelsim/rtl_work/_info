@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CompArch/mux_4to1_bhvrl/simulation/modelsim
+vmux_4to1_bhvrl
+Z1 !s110 1581393354
+!i10b 1
+!s100 fEbRj:AXS6abOY38kB;PR2
+I9NR]Z0L2hgBTWLWNClIA<2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1581393294
+8D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl.v
+FD:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1581393354.000000
+!s107 D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/mux_4to1_bhvrl|D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/CompArch/mux_4to1_bhvrl
+Z7 tCvgOpt 0
+vmux_4to1_bhvrl_tb
+R1
+!i10b 1
+!s100 <:8ife[]O8QI173^TTdP02
+I15iIhf;5gCoQkh>BY`[0T0
+R2
+R0
+w1581393183
+8D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl_tb.v
+FD:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CompArch/mux_4to1_bhvrl|D:/CompArch/mux_4to1_bhvrl/mux_4to1_bhvrl_tb.v|
+!i113 1
+R5
+R6
+R7

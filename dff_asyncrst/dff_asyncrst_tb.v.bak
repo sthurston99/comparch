@@ -1,0 +1,25 @@
+`timescale 1ns/1ps
+module dff_asyncrst_tb;
+	reg d, clk, rst, en;
+	wire q;
+	
+	dff_asyncrst uut (.q(q), .d(d), .clk(clk), .rst(rst), .en(en));
+	
+	initial begin
+		#10
+			en = 0;
+			d = 0;
+		#10 d = 1;
+		#10
+			en = 1;
+			d = 0;
+		#10
+			d = 1;
+		#10 en = 0;
+		#25 rst = 1;
+		#5 $stop;
+	end
+	
+	always
+		#5 clk = ~clk;
+endmodule
