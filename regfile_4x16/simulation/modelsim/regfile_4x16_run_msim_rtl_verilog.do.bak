@@ -1,9 +1,0 @@
-transcript on
-if {[file exists rtl_work]} {
-	vdel -lib rtl_work -all
-}
-vlib rtl_work
-vmap work rtl_work
-
-vlog -vlog01compat -work work +incdir+D:/CompArch/regfile_4x16 {D:/CompArch/regfile_4x16/regfile_4x16.v}
-

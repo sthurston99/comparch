@@ -1,3 +1,0 @@
-module prog_cnt(clk, rst, PS, in, out);
-
-endmodule
